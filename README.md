@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @F2x-47
 - 👀 I’m interested in science, math and programming...
-- 🧠 My programming languages: I code in Python, JavaScript, HTML, CSS and C#
+- 🧠 My programming languages: Python, JavaScript, HTML, CSS and C#
 - 💞️ I’m looking to collaborate on programming
 - 📫 How to reach me: guns.lol/pandak
 - 😄 Pronouns: Pandak / Pandak_x / TyloGo / F2x-M
